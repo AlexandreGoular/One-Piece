@@ -9,7 +9,7 @@ let personagemCinco = document.querySelector(".yamato")
 let titulo = document.querySelector(".tituloPersonagem")
 let descricao = document.querySelector(".sobrePersonagem")
 
-// Adicione essas linhas no seu JavaScript
+
 
 personagemUm.addEventListener("click", () => {
     fotoPersonagem.style.opacity = "0"; 
